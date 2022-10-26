@@ -49,3 +49,11 @@ html {
     letter-spacing: .1rem;
     color: #ffc600;
   }
+
+  h1 {
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 5%;
+    font-size: 5rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
